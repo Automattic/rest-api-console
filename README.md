@@ -12,7 +12,7 @@ The console requires a WordPress.com application to be created.
 1. Login to WordPress.com
 2. Visit https://developer.wordpress.com/apps/
 3. Click "Create New Application"
-4. Full in your applications name and description
+4. Fill in your application's name and description
 5. Enter a redirect URI for your application. See http://developer.wordpress.com/docs/oauth2/ for more information
 6. Enter any domains you plan on accessing the console from in the "Javascript Origins" box
 7. Click 'Create'
